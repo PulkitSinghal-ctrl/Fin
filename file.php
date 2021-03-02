@@ -1,4 +1,3 @@
 <?php
-imap_alert("hello world"
-);
+alert("hello world");
 ?>
